@@ -1,0 +1,15 @@
+* text=auto
+
+.gitattributes text
+.gitignore     text
+Makefile       text diff=make
+FAQ            text
+TODO           text
+LEGACY         text
+LICENSE        text
+README         text
+*.c            text diff=c
+*.h            text diff=c
+*.mk           text diff=make
+*.info         text
+*.1            text
