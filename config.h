@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "ProFont IIx Nerd Font:style=Regular:pixelsize=13:"
+static char *font = "Hurmit Nerd Font:style=Regular:pixelsize=16:"
 		    "antialias=true:autohint=true";
 static int borderpx = 2;
 
